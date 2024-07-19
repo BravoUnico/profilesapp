@@ -1,5 +1,12 @@
 # React + Vite
 
+# Building a Basic Web Application 
+Creating a web application using AWS 
+created a react application 
+initiated in GitHub repository 
+installed Amplified packages 
+still need to deploy app with AWS Amplify.  
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
